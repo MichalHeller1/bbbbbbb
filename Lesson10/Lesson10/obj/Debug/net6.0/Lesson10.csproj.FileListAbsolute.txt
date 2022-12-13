@@ -1,0 +1,15 @@
+C:\Users\ברלין שולמית\Desktop\Lesson10\Lesson10\bin\Debug\net6.0\Lesson10.exe
+C:\Users\ברלין שולמית\Desktop\Lesson10\Lesson10\bin\Debug\net6.0\Lesson10.deps.json
+C:\Users\ברלין שולמית\Desktop\Lesson10\Lesson10\bin\Debug\net6.0\Lesson10.runtimeconfig.json
+C:\Users\ברלין שולמית\Desktop\Lesson10\Lesson10\bin\Debug\net6.0\Lesson10.dll
+C:\Users\ברלין שולמית\Desktop\Lesson10\Lesson10\bin\Debug\net6.0\ref\Lesson10.dll
+C:\Users\ברלין שולמית\Desktop\Lesson10\Lesson10\bin\Debug\net6.0\Lesson10.pdb
+C:\Users\ברלין שולמית\Desktop\Lesson10\Lesson10\obj\Debug\net6.0\Lesson10.csproj.AssemblyReference.cache
+C:\Users\ברלין שולמית\Desktop\Lesson10\Lesson10\obj\Debug\net6.0\Lesson10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ברלין שולמית\Desktop\Lesson10\Lesson10\obj\Debug\net6.0\Lesson10.AssemblyInfoInputs.cache
+C:\Users\ברלין שולמית\Desktop\Lesson10\Lesson10\obj\Debug\net6.0\Lesson10.AssemblyInfo.cs
+C:\Users\ברלין שולמית\Desktop\Lesson10\Lesson10\obj\Debug\net6.0\Lesson10.csproj.CoreCompileInputs.cache
+C:\Users\ברלין שולמית\Desktop\Lesson10\Lesson10\obj\Debug\net6.0\Lesson10.dll
+C:\Users\ברלין שולמית\Desktop\Lesson10\Lesson10\obj\Debug\net6.0\ref\Lesson10.dll
+C:\Users\ברלין שולמית\Desktop\Lesson10\Lesson10\obj\Debug\net6.0\Lesson10.pdb
+C:\Users\ברלין שולמית\Desktop\Lesson10\Lesson10\obj\Debug\net6.0\Lesson10.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+<garden>
+	<flowers>
+		<flower name="חצב" color="">
+			<age></age>
+		
+		</flower>
+	</flowers>
+	<gananim>
+	
+	</gananim>
+</garden>
+<command>
+	<temp>24</temp>
+	on
+</command>
